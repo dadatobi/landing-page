@@ -8,10 +8,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-.look-out {
-  width: 500px;
-  height: auto;
-}
+
 ul {
   padding: 0;
   margin: 0;
@@ -77,6 +74,11 @@ button {
   font-size: 18px;
   max-width: 430px;
   margin-bottom: 20px;
+}
+.look-out {
+  width: 500px;
+  height: auto;
+  border-radius:8px;
 }
 .info {
   display: flex;
